@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Wei Han</title>
+    <link>https://harry-up.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Wei Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://harry-up.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capsule Neural Network and Discussion on Synchronization Neural Network</title>
+      <link>https://harry-up.github.io/talk/capsule-neural-network-and-discussion-on-synchronization-neural-network/</link>
+      <pubDate>Sat, 08 Dec 2018 09:00:00 +0000</pubDate>
+      
+      <guid>https://harry-up.github.io/talk/capsule-neural-network-and-discussion-on-synchronization-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial on tensorflow usage</title>
+      <link>https://harry-up.github.io/talk/tutorial-on-tensorflow-usage/</link>
+      <pubDate>Tue, 31 Jul 2018 09:00:00 +0000</pubDate>
+      
+      <guid>https://harry-up.github.io/talk/tutorial-on-tensorflow-usage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation-based Transfer Learning and Some Advances</title>
+      <link>https://harry-up.github.io/talk/representation-based-transfer-learning-and-some-advances/</link>
+      <pubDate>Wed, 26 Jul 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://harry-up.github.io/talk/representation-based-transfer-learning-and-some-advances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Distribution Learning</title>
+      <link>https://harry-up.github.io/talk/label-distribution-learning/</link>
+      <pubDate>Wed, 03 May 2017 09:00:00 +0000</pubDate>
+      
+      <guid>https://harry-up.github.io/talk/label-distribution-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Study of Deep Learning</title>
+      <link>https://harry-up.github.io/talk/preliminary-study-of-deep-learning/</link>
+      <pubDate>Wed, 16 Nov 2016 09:00:00 +0000</pubDate>
+      
+      <guid>https://harry-up.github.io/talk/preliminary-study-of-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
