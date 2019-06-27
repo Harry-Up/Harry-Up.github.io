@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Wei Han</title>
-    <link>https://harry-up.github.io/tags/python/</link>
+    <link>http://weihan95.com/tags/python/</link>
     <description>Recent content in Python on Wei Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jul 2018 09:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://harry-up.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://weihan95.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutorial on tensorflow usage</title>
-      <link>https://harry-up.github.io/talk/tutorial-on-tensorflow-usage/</link>
+      <link>http://weihan95.com/talk/tutorial-on-tensorflow-usage/</link>
       <pubDate>Tue, 31 Jul 2018 09:00:00 +0000</pubDate>
       
-      <guid>https://harry-up.github.io/talk/tutorial-on-tensorflow-usage/</guid>
+      <guid>http://weihan95.com/talk/tutorial-on-tensorflow-usage/</guid>
       <description></description>
     </item>
     

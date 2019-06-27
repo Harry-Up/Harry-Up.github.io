@@ -2,22 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changgang Zheng on Wei Han</title>
-    <link>https://harry-up.github.io/authors/changgang-zheng/</link>
+    <link>http://weihan95.com/authors/changgang-zheng/</link>
     <description>Recent content in Changgang Zheng on Wei Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Feb 2019 15:58:24 +0800</lastBuildDate>
     
-	    <atom:link href="https://harry-up.github.io/authors/changgang-zheng/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://weihan95.com/authors/changgang-zheng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Low-rank Network Signatures in the Triple Network Separate Schizophrenia and Major Depressive Disorder</title>
-      <link>https://harry-up.github.io/publication/neuroimage2019/</link>
+      <link>http://weihan95.com/publication/neuroimage2019/</link>
       <pubDate>Fri, 22 Feb 2019 15:58:24 +0800</pubDate>
       
-      <guid>https://harry-up.github.io/publication/neuroimage2019/</guid>
-      <description></description>
+      <guid>http://weihan95.com/publication/neuroimage2019/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transfer Learning on Wei Han</title>
-    <link>https://harry-up.github.io/tags/transfer-learning/</link>
+    <link>http://weihan95.com/tags/transfer-learning/</link>
     <description>Recent content in Transfer Learning on Wei Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Jul 2017 09:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://harry-up.github.io/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://weihan95.com/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Representation-based Transfer Learning and Some Advances</title>
-      <link>https://harry-up.github.io/talk/representation-based-transfer-learning-and-some-advances/</link>
+      <link>http://weihan95.com/talk/representation-based-transfer-learning-and-some-advances/</link>
       <pubDate>Wed, 26 Jul 2017 09:00:00 +0000</pubDate>
       
-      <guid>https://harry-up.github.io/talk/representation-based-transfer-learning-and-some-advances/</guid>
+      <guid>http://weihan95.com/talk/representation-based-transfer-learning-and-some-advances/</guid>
       <description></description>
     </item>
     

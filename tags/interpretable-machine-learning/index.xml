@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interpretable Machine Learning on Wei Han</title>
-    <link>https://harry-up.github.io/tags/interpretable-machine-learning/</link>
+    <link>http://weihan95.com/tags/interpretable-machine-learning/</link>
     <description>Recent content in Interpretable Machine Learning on Wei Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Dec 2018 09:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://harry-up.github.io/tags/interpretable-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://weihan95.com/tags/interpretable-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Capsule Neural Network and Discussion on Synchronization Neural Network</title>
-      <link>https://harry-up.github.io/talk/capsule-neural-network-and-discussion-on-synchronization-neural-network/</link>
+      <link>http://weihan95.com/talk/capsule-neural-network-and-discussion-on-synchronization-neural-network/</link>
       <pubDate>Sat, 08 Dec 2018 09:00:00 +0000</pubDate>
       
-      <guid>https://harry-up.github.io/talk/capsule-neural-network-and-discussion-on-synchronization-neural-network/</guid>
+      <guid>http://weihan95.com/talk/capsule-neural-network-and-discussion-on-synchronization-neural-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preliminary Study of Deep Learning</title>
-      <link>https://harry-up.github.io/talk/preliminary-study-of-deep-learning/</link>
+      <link>http://weihan95.com/talk/preliminary-study-of-deep-learning/</link>
       <pubDate>Wed, 16 Nov 2016 09:00:00 +0000</pubDate>
       
-      <guid>https://harry-up.github.io/talk/preliminary-study-of-deep-learning/</guid>
+      <guid>http://weihan95.com/talk/preliminary-study-of-deep-learning/</guid>
       <description></description>
     </item>
     
