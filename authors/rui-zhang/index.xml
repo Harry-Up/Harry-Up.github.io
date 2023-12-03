@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Zhang on Wei Han</title>
+    <link>http://weihan95.com/authors/rui-zhang/</link>
+    <description>Recent content in Rui Zhang on Wei Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://weihan95.com/authors/rui-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-instance attention network for few-shot learning</title>
+      <link>http://weihan95.com/publication/information_science2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular neural network via exploring category hierarchy</title>
+      <link>http://weihan95.com/publication/information_science2021/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

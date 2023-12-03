@@ -6,15 +6,150 @@
     <description>Recent content on Wei Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Feb 2019 15:58:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 14:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://weihan95.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Roadmap to LLM-based Researches</title>
+      <link>http://weihan95.com/talk/roadmap-to-llm-based-researches/</link>
+      <pubDate>Tue, 28 Nov 2023 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/roadmap-to-llm-based-researches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronization-inspired Interpretable Neural Networks</title>
+      <link>http://weihan95.com/publication/tnnls2023/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/tnnls2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locating and Editing Knowledge in GPT</title>
+      <link>http://weihan95.com/talk/locating-and-editing-knowledge-in-gpt/</link>
+      <pubDate>Tue, 13 Jun 2023 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/locating-and-editing-knowledge-in-gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Interpretability Help?</title>
+      <link>http://weihan95.com/talk/can-interpretability-help/</link>
+      <pubDate>Tue, 22 Nov 2022 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/can-interpretability-help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Neural Networks</title>
+      <link>http://weihan95.com/talk/dynamic-neural-networks/</link>
+      <pubDate>Tue, 30 Aug 2022 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/dynamic-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing variations in multi-center Alzheimer’s disease classification with convolutional adversarial autoencoder</title>
+      <link>http://weihan95.com/publication/medical_image_analysis2022/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/medical_image_analysis2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interpretable Neuron Embedding for Static Knowledge Distillation</title>
+      <link>http://weihan95.com/publication/vds_kdd2022/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/vds_kdd2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-instance attention network for few-shot learning</title>
+      <link>http://weihan95.com/publication/information_science2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances of Continual Learning</title>
+      <link>http://weihan95.com/talk/recent-advances-of-continual-learning/</link>
+      <pubDate>Tue, 28 Sep 2021 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/recent-advances-of-continual-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular neural network via exploring category hierarchy</title>
+      <link>http://weihan95.com/publication/information_science2021/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Net2Vec towards Knowledge Embedding</title>
+      <link>http://weihan95.com/talk/net2vec-towards-knowledge-embedding/</link>
+      <pubDate>Wed, 28 Apr 2021 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/net2vec-towards-knowledge-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>informtion theory in deep neural networks</title>
+      <link>http://weihan95.com/talk/informtion-theory-in-deep-neural-networks/</link>
+      <pubDate>Tue, 01 Dec 2020 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/informtion-theory-in-deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Network Architecture Before and After Training</title>
+      <link>http://weihan95.com/talk/an-efficient-network-architecture-before-and-after-training/</link>
+      <pubDate>Tue, 21 Jul 2020 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/an-efficient-network-architecture-before-and-after-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Advances of Neural Network Architecture in Image Classification</title>
+      <link>http://weihan95.com/talk/some-advances-of-neural-network-architecture-in-image-classification/</link>
+      <pubDate>Tue, 24 Sep 2019 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/some-advances-of-neural-network-architecture-in-image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Neural Network</title>
+      <link>http://weihan95.com/talk/modular-neural-network/</link>
+      <pubDate>Tue, 11 Jun 2019 14:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/talk/modular-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Low-rank Network Signatures in the Triple Network Separate Schizophrenia and Major Depressive Disorder</title>
       <link>http://weihan95.com/publication/neuroimage2019/</link>
-      <pubDate>Fri, 22 Feb 2019 15:58:24 +0800</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://weihan95.com/publication/neuroimage2019/</guid>
       <description></description>
@@ -71,6 +206,15 @@
       <pubDate>Wed, 16 Nov 2016 09:00:00 +0000</pubDate>
       
       <guid>http://weihan95.com/talk/preliminary-study-of-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning multiple gaussian prototypes for open-set recognition</title>
+      <link>http://weihan95.com/publication/information_science2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2023/</guid>
       <description></description>
     </item>
     

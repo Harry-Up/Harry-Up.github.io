@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhili Qin, on Wei Han</title>
+    <link>http://weihan95.com/authors/zhili-qin/</link>
+    <description>Recent content in Zhili Qin, on Wei Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://weihan95.com/authors/zhili-qin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Synchronization-inspired Interpretable Neural Networks</title>
+      <link>http://weihan95.com/publication/tnnls2023/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/tnnls2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-instance attention network for few-shot learning</title>
+      <link>http://weihan95.com/publication/information_science2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning multiple gaussian prototypes for open-set recognition</title>
+      <link>http://weihan95.com/publication/information_science2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://weihan95.com/publication/information_science2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
