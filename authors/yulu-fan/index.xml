@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yulu Fan, on Wei Han</title>
+    <title>Yulu Fan on Wei Han</title>
     <link>http://weihan95.com/authors/yulu-fan/</link>
-    <description>Recent content in Yulu Fan, on Wei Han</description>
+    <description>Recent content in Yulu Fan on Wei Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://weihan95.com/authors/yulu-fan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Learning multiple gaussian prototypes for open-set recognition</title>
       <link>http://weihan95.com/publication/information_science2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://weihan95.com/publication/information_science2023/</guid>
       <description></description>

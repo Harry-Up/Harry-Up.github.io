@@ -96,6 +96,47 @@
   </url>
   
   <url>
+    <loc>http://weihan95.com/tags/gaussian-prototype/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://weihan95.com/authors/jun-tian/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://weihan95.com/publication/information_science2023/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://weihan95.com/tags/novelty-detection/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://weihan95.com/tags/open-set-recognition/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://weihan95.com/tags/variational-auto-encoder/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://weihan95.com/authors/yulu-fan/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://weihan95.com/talk/can-interpretability-help/</loc>
     <lastmod>2022-11-22T14:00:00+00:00</lastmod>
   </url>
@@ -465,30 +506,6 @@
   </url>
   
   <url>
-    <loc>http://weihan95.com/tags/gaussian-prototype/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://weihan95.com/authors/jun-tian/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://weihan95.com/publication/information_science2023/</loc>
-  </url>
-  
-  <url>
-    <loc>http://weihan95.com/tags/novelty-detection/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://weihan95.com/tags/open-set-recognition/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://weihan95.com/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
@@ -501,16 +518,6 @@
   <url>
     <loc>http://weihan95.com/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://weihan95.com/tags/variational-auto-encoder/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://weihan95.com/authors/yulu-fan/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
